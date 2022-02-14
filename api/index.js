@@ -13,8 +13,8 @@ const db = mysql.createPool({
     
     host: 'localhost',
     user: 'root',
-    password: '',
-    database: 'projetoEgresso'
+    password: 'Ppgcvufrrj@123',
+    database: 'projetoEgressoTeste'
 
 });
 
